@@ -5,6 +5,6 @@ This python script utilizes the 'ols_client' package to search for relative chil
 
 ## Requirements and Installations:
  - Make sure python is up to date
- - $ pip install ols_client
- - $ pip install git+https://github.com/cthoyt/ols-client.git
+ - pip install ols_client
+ - pip install git+https://github.com/cthoyt/ols-client.git
    
